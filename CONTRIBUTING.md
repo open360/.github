@@ -156,8 +156,11 @@ Any reference to tickets, tasks, issues, bug tracking numbers or any other relev
 >Add password length validation
 
 ✅ Does not end with a period
+
 ✅ Correct grammatical form
+
 ✅ Is capitalized
+
 ✅ Does not rely on additional context
 
 ***Examples of bad commit subject lines:***
